@@ -78,7 +78,9 @@ PRODUCT_PACKAGES += \
     Trebuchet \
     DSPManager \
     libcyanogen-dsp \
-    audio_effects.conf
+    audio_effects.conf \
+    CMStats \
+    CMSettings
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/common

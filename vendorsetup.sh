@@ -12,4 +12,8 @@ add_lunch_combo cm_pyramid-userdebug
 add_lunch_combo cm_smb_a1011-userdebug
 add_lunch_combo cm_toro-userdebug
 add_lunch_combo cm_wingray-userdebug
+add_lunch_combo cm_vision-userdebug
+add_lunch_combo cm_vision-eng
+add_lunch_combo cm_galaxytab-eng
 add_lunch_combo cm_galaxytab-userdebug
+
